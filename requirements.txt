@@ -11,4 +11,4 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 psycopg2==2.7.5
 branca>=0.3.0             # pour folium
-folium==0.2.1
+folium
