@@ -12,3 +12,4 @@ six==1.15.0               # via cycler, python-dateutil
 psycopg2==2.7.5
 branca>=0.3.0             # pour folium
 folium
+mobilechelonian           # pour Turtle
